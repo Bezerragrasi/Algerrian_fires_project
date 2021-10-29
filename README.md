@@ -1,5 +1,9 @@
 # Algerrian_fires_project
 
+This is my final project for the Capstone course in the Professional Certificate in Data Science - Harvard.
+
+
+
 Algerian_forest_fires_dataset_UPDATE.csv #is the raw data archive
 
 script.R #is the code in R
