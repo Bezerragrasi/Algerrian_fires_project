@@ -10,6 +10,6 @@ script.R #is the code in R
 
 Report.Rmd #is the report in rmd
 
-Report.pdf #is the final report in R
+Report.pdf #is the final report in PDF
 
 references.bib # is the bibliography
